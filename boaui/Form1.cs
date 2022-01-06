@@ -33,6 +33,10 @@ namespace boaui
             {
                 letra.Text = ((char)currentInt).ToString();
             }
+            else 
+            {
+                letra.Text = ("");
+            }
         }
         private void one_CheckedChanged(object sender, EventArgs e)
         {

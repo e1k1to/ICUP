@@ -89,7 +89,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="key.png" />
     <Content Include="Sem título.png" />
     <Content Include="Webalys-Kameleon.pics-Key.ico" />
   </ItemGroup>
