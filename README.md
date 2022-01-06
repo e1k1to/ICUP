@@ -3,4 +3,4 @@
 ICUP é uma ferramenta extremamente bem pensada e bem programada, que leva em consideração tanto a segurança quanto a conveniência para o usuário, sendo extremamente intuitivo e fácil de usar. (mentira)
 
 # Demonstração de uso:
-![Alt Text](https://media0.giphy.com/media/j4rGAsp2K7ivobKYnL/giphy.gif?cid=790b76113ac8a971056a67a1c9433330db5b1e9d5317f238&rid=giphy.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/423287771923218439/928730828152913960/2022-01-06-16-10-14.gif)
